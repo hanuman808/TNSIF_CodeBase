@@ -31,7 +31,7 @@ public class PersonDemo {
 	   
 	   TaxCalculation cal = new TaxCalculation();
 	   cal.caculateTax(s);
-	   System.out.println(cal);
+	   System.out.println(s);
 
 	}
 
